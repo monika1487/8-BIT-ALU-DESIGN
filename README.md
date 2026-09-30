@@ -29,5 +29,7 @@ The ALU features four status flags evaluated dynamically based on the current ou
 ## Repository Files
 - `ALU_Final.circ` - Complete Logisim-evolution circuit schematic.
 - `alu_8bit.v` - Verilog HDL design module.
+- ## Online Simulation
+- View and run the interactive simulation on EDA Playground: [EDA Playground Project Link](https://edaplayground.com/x/ErqJ)
 - `tb_alu_8bit.v` - Verilog testbench file.
 - `waveform_results.png` - Simulation timing waveforms from EDA Playground.
